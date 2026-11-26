@@ -350,7 +350,7 @@ document.addEventListener("DOMContentLoaded", () => {
         renderCart(); 
 
         // Al realizar la venta con éxito, devolvemos el foco al escáner
-        const barcodeInput = document.getElementById("barcode-input");
+        const barcodeInput = document.getElementById("inputMontoManual");
         if (barcodeInput){
             barcodeInput.focus();
             document.getElementById('payment-method').value = 'EFECTIVO';
@@ -447,7 +447,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.addEventListener('keydown', function(event){
       
-    if (event.key === 'F4'){
+    if (event.key === '.'){
       event.preventDefault();
       document.getElementById('btnRealizarVenta').click();
     }
