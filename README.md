@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Nicolás Colman, Leonela Colman
+Copyright (c) 2026 Nicolás Colman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +22,6 @@ SOFTWARE.
 
 ## Autores
 - Nicolás Colman
-- Leonela Colman
 
-Proyecto académico – Tecnologias Web , 2025
+Proyecto académico – Trabajo Final, 2026
 
